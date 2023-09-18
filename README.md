@@ -1,7 +1,6 @@
 # Invitation Letter Generator
 
-![GitHub]([https://img.shields.io/github/license/your-username/your-repo](https://github.com/BadeaFreh/Invitation-Letter-Generator))
-![GitHub license](https://img.shields.io/github/license/your-username/your-repo)
+**Project Name:** [Invitation Letter Generator](https://github.com/BadeaFreh/Invitation-Letter-Generator)
 
 A simple Python script to generate personalized invitation letters using a template and a list of invited names.
 
